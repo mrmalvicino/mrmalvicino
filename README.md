@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maximiliano Raúl Malvicino</h1>
-<h3 align="center">Curious developer. Passionate about the sound phenomenon. Inspiring others to see the universe through the lens of maths and physics.</h3>
+<h3 align="center">Curious developer. Passionate about the sound phenomenon. Inspiring others to see the universe through the lens of physics.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrmalvicino" alt="mrmalvicino" /></a> </p>
 
