@@ -9,6 +9,7 @@
 <a href="https://linkedin.com/in/malvicinomaximilianoraul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malvicinomaximilianoraul" height="30" width="40" /></a>
 <a href="https://fb.com/malvicinomaximilianoraul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malvicinomaximilianoraul" height="30" width="40" /></a>
 <a href="https://instagram.com/mmrsonido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmrsonido" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21293956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21293956" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
