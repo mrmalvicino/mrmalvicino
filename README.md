@@ -1,10 +1,6 @@
 <h2 align="center">Curious developer. Passionate about the sound phenomenon.</h2>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrmalvicino" alt="mrmalvicino" />
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrmalvicino&theme=oldie&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=20&margin-h=20&column=4&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Technologies:</h3>
 
