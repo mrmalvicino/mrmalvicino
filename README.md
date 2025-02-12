@@ -12,5 +12,6 @@ Hi! I'm Max, an enthusiast of acoustics and programming. I currently work on web
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrmalvicino&show_icons=true&locale=en&layout=compact" alt="mrmalvicino" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mrmalvicino&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrmalvicino&show_icons=true&locale=en&layout=compact" alt="mrmalvicino" />
 </p>
