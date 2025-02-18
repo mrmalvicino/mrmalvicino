@@ -9,9 +9,9 @@
 
 <p align="center" style="font-size: 1.2em;">:computer: Curious developer. Passionate about the sound phenomenon. :loud_sound:</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrmalvicino&color=006bed" alt="Profile views" />
-</p>
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mrmalvicino@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malvicinomaximilianoraul/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://mrmalvicino.com)
 
 ## About Me
 
@@ -42,5 +42,6 @@ And for engineering projects, I work with Arduino and use LaTeX to create techni
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrmalvicino&show_icons=true&locale=en&layout=compact" alt="mrmalvicino" />
 </p>
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mrmalvicino@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malvicinomaximilianoraul/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrmalvicino&color=006bed" alt="Profile views" />
+</p>
