@@ -1,13 +1,13 @@
+<h1 align="center">Maximiliano Malvicino</h1>
+
+<p align="center" style="font-size: 1.2em;">:computer: Curious developer. Passionate about the sound phenomenon. :loud_sound:</p>
+
 <br>
 <p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=32&pause=1000&color=1168F7&random=false&width=400&lines=Software+Development;Sound+Engineering" alt="Typing SVG" />
   </a>
 </p>
-
-<h1 align="center">Maximiliano Malvicino</h1>
-
-<p align="center" style="font-size: 1.2em;">:computer: Curious developer. Passionate about the sound phenomenon. :loud_sound:</p>
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrmalvicino@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malvicinomaximilianoraul/)
