@@ -28,8 +28,7 @@ Hi! :wave: I'm Max, an enthusiast of acoustics and programming. I currently work
 
 &nbsp;
 My main stack for web development is based on .NET, with C# for backend development, MS SQL for database management, and HTML/CSS for frontend design.
-I also build web applications with Java and Bootstrap or Tailwind, and desktop applications with C++. I and use Python for signal processing tasks.
-And for engineering projects, I work with Arduino and use LaTeX to create technical reports.
+I also build web applications with Java and Bootstrap or Tailwind, and desktop applications with C++. For engineering projects, I work with Python and Arduino and use LaTeX to create technical reports.
 
 <p align="center">
   <a href="https://skillicons.dev">
