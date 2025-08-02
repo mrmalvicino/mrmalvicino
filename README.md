@@ -32,7 +32,7 @@ I also build web applications with Java and Bootstrap or Tailwind, and desktop a
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,java,bootstrap,tailwind,mysql,c,cpp,py,git,latex,arduino,docker&perline=8" />
+    <img src="https://skillicons.dev/icons?i=dotnet,c,cpp,cs,py,java,js,ts,mysql,sqlite,mongodb,arduino,git,latex,arduino,docker,html,css,bootstrap,tailwind,angular,react,redux,fastapi&perline=8" />
   </a>
 </p>
 
